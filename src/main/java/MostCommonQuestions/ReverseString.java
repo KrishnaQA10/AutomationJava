@@ -19,7 +19,7 @@ public class ReverseString {
 
     public static void main(String[] args){
         String result = reverseString("Krishna");
-        String strBuilderresult = reverseStringStringBuilder("Hello");
+        String strBuilderresult = reverseStringStringBuilder("Sharma");
 
         System.out.println("Reverse of my String is: " + result);
         System.out.println("Reverse of my String is: " + strBuilderresult);
