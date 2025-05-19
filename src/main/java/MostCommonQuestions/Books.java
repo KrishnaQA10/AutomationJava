@@ -6,5 +6,6 @@ public class Books {
     }
    void colourOfBook(){
       System.out.println("Default book colour is white");
+
    }
 }
